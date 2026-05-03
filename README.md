@@ -30,6 +30,13 @@ pytest tests/test_weverse_signUp.py -s
 pytest tests/test_weverse_post.py -s
 ```
 
+## 시현영상
+회원가입
+https://github.com/user-attachments/assets/8a284c51-e5df-4807-bdf5-356215b3fb2d
+
+포스트 작성/수정/삭제
+https://github.com/user-attachments/assets/c6eecc98-f6bf-4c63-97a0-1e0569ebfa69
+
 ## 참고사항
 
 - 이메일 인증코드는 현재 테스트 실행 중 터미널에서 수동으로 입력하는 방식으로 구현했습니다. 자동화 관점에서 한계가 있다는 점을 인지하고 있으며, IMAP 프로토콜을 활용해 이메일을 직접 파싱하고 인증코드를 추출하는 방식으로 개선하고 싶습니다. 입사 후 IMAP 연동을 직접 구현해보겠습니다.
