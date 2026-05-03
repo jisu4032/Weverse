@@ -32,9 +32,11 @@ pytest tests/test_weverse_post.py -s
 
 ## 시현영상
 회원가입
+
 https://github.com/user-attachments/assets/8a284c51-e5df-4807-bdf5-356215b3fb2d
 
 포스트 작성/수정/삭제
+
 https://github.com/user-attachments/assets/c6eecc98-f6bf-4c63-97a0-1e0569ebfa69
 
 ## 참고사항
